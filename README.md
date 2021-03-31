@@ -1,1 +1,0 @@
-# vidalii-server-frontend
